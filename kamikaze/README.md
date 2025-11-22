@@ -1,0 +1,1 @@
+ it is race condition just all the requests to buy the items at the same time using intruder in burp
